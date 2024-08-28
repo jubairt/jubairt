@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jubair</h1>
-<h3 align="center">A passionate Data Science enthusiast from India</h3>
+<h3 align="center">A passionate Data Science aspirant from India</h3>
 
 
 
