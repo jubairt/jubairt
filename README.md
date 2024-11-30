@@ -4,8 +4,8 @@
 
 
 - 🌱 I’m currently learning **Data Science**
-
 - 📫 How to reach me **abdullahjubairt@gmail.com**
+- End to End RoadMap and Resources created in Notion: [DATA SCIENCE RoadMap](https://oil-price-689.notion.site/DATA-SCIENCE-634f38f722ae4491b036549e3b61958c?pvs=4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
