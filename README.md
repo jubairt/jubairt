@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Abdulla Jubair</h1>
 <h3 align="center">Data Science & Machine Learning Aspirant from India 🇮🇳</h3>
 
