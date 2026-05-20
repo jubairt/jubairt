@@ -16,7 +16,6 @@ Building scalable AI systems, intelligent applications, and end-to-end data solu
 - Skilled in designing scalable backend systems, ML pipelines, and cloud-native applications
 - Strong interest in analytics engineering, AI infrastructure, and production-grade ML systems
 - Focused on developing high-performance applications with modern software engineering practices
-- Reach me at: **abdullahjubairt@gmail.com**
 
 ---
 
@@ -30,6 +29,7 @@ Complete End-to-End Data Science Roadmap and Learning Resources:
 
 # Connect With Me
 
+- Email: **abdullahjubairt@gmail.com**
 - LinkedIn: [abdullajubair](https://www.linkedin.com/in/abdullajubair/)
 - Kaggle: [jubairt](https://kaggle.com/jubairt)
 - LeetCode: [jubairt](https://www.leetcode.com/jubairt/)
