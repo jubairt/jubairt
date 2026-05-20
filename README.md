@@ -1,27 +1,19 @@
 <h1 align="center">Hi 👋, I'm Abdulla Jubair</h1>
-<h3 align="center">Data Science & Machine Learning Enthusiast from India 🇮🇳</h3>
+<h3 align="center">Data Scientist | Machine Learning Engineer | AI Engineer</h3>
 
 <p align="center">
-Passionate about building intelligent systems using Data Science, Machine Learning, and AI.<br>
-Focused on developing real-world AI applications, analytics solutions, and scalable backend systems.
+Building scalable AI systems, intelligent applications, and end-to-end data solutions using modern machine learning and cloud technologies.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎯 Data Science & Machine Learning Enthusiast
-- 💻 Building real-world projects using Python, Django, Flask, SQL, and ML libraries
-- 🧠 Interested in:
-  - Machine Learning
-  - Deep Learning
-  - RAG Systems
-  - Data Analytics
-  - AI Applications
-  - Backend Development
-- 📈 Exploring scalable AI systems and modern data-driven applications
-- 🌱 Continuously improving problem-solving and software development skills
-- 🤝 Open to opportunities in Data Science, Machine Learning, and Software Development roles
+- 💡 Passionate about solving real-world problems using Data Science, Machine Learning, and AI
+- 🤖 Experienced in building intelligent systems using LLMs, RAG architectures, and Multi-Agent workflows
+- ⚙️ Skilled in designing scalable backend systems, ML pipelines, and cloud-native applications
+- 📊 Strong interest in analytics engineering, AI infrastructure, and production-grade ML systems
+- 🌐 Focused on developing high-performance applications with modern software engineering practices
 - 📫 Reach me at: **abdullahjubairt@gmail.com**
 
 ---
@@ -52,53 +44,109 @@ Focused on developing real-world AI applications, analytics solutions, and scala
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
+## 👨‍💻 Programming Languages
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
 </p>
 
 ---
 
-### 🌐 Web Development
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45"/>
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="45" height="45"/>
-</p>
-
----
-
-### 📊 Data Science & Machine Learning
+## 📊 Data Science & Machine Learning
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="45" height="45"/>
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/>
 </p>
 
 ---
 
-### 🗄️ Database
+## 🤖 AI / LLM / Generative AI
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" alt="openai" width="45" height="45"/>
+</p>
+
+- LLM Applications  
+- RAG Pipelines  
+- Multi-Agent Systems  
+- AI Workflow Orchestration  
+- Vector Databases  
+- Prompt Engineering  
+
+---
+
+## 🌐 Backend & APIs
+
+<p align="left">
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="45" height="45"/>
+</p>
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45"/>
+</p>
+
+- Docker  
+- Kubernetes  
+- CI/CD  
+- Microservices Architecture  
+- Cloud Deployment  
+- Airflow Pipelines  
+
+---
+
+## 🗄️ Databases
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
+</p>
+
+---
+
+## 📈 Data Visualization & BI
+
+- Power BI  
+- Tableau  
+- Plotly  
+- Bokeh  
+- D3.js  
+- Matplotlib  
+
+---
+
+## 🌍 Frontend Technologies
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45"/>
 </p>
 
 ---
 
 ## 📌 Current Focus
 
-- Building end-to-end Data Science & ML projects
-- Developing AI-powered applications
-- Exploring RAG architectures and intelligent systems
-- Backend development with Django & Flask
-- Strengthening DSA and problem-solving skills
+- Production-grade AI systems
+- Scalable ML infrastructure
+- Advanced RAG & Agentic AI architectures
+- Distributed data pipelines
+- Cloud-native ML deployment
+- End-to-end AI product engineering
 
 ---
 
@@ -118,13 +166,13 @@ Focused on developing real-world AI applications, analytics solutions, and scala
 
 ---
 
-## ⚡ Quote
+## ⚡ Philosophy
 
-> “Turning data into intelligent solutions and impactful applications.”
+> “Building intelligent systems that transform data into scalable real-world impact.”
 
 ---
 
 <p align="center">
-  Thanks for visiting my profile ⭐
+⭐ Exploring AI • Engineering ML Systems • Building Scalable Applications
 </p>
 ```
