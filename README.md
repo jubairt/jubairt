@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Abdulla Jubair</h1>
-<h3 align="center">Data Science & Machine Learning Aspirant from India 🇮🇳</h3>
+<h3 align="center">Data Science & Machine Learning Enthusiast from India 🇮🇳</h3>
 
 <p align="center">
-  Passionate about building intelligent systems using Data Science, Machine Learning, and AI.<br>
-  Currently focused on mastering ML engineering, analytics, RAG systems, and end-to-end AI applications.
+Passionate about building intelligent systems using Data Science, Machine Learning, and AI.<br>
+Focused on developing real-world AI applications, analytics solutions, and scalable backend systems.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎯 Aspiring **Data Scientist & Machine Learning Engineer**
-- 📚 Currently learning **Advanced Data Science, Machine Learning & AI Systems**
+- 🎯 Data Science & Machine Learning Enthusiast
+- 💻 Building real-world projects using Python, Django, Flask, SQL, and ML libraries
 - 🧠 Interested in:
   - Machine Learning
   - Deep Learning
@@ -19,8 +19,9 @@
   - Data Analytics
   - AI Applications
   - Backend Development
-- 💻 Building real-world projects using Python, Django, Flask, SQL, and ML libraries
-- 🌱 Continuously improving problem-solving and development skills
+- 📈 Exploring scalable AI systems and modern data-driven applications
+- 🌱 Continuously improving problem-solving and software development skills
+- 🤝 Open to opportunities in Data Science, Machine Learning, and Software Development roles
 - 📫 Reach me at: **abdullahjubairt@gmail.com**
 
 ---
@@ -93,11 +94,11 @@
 
 ## 📌 Current Focus
 
-- Building Data Science & ML projects
-- Learning advanced ML concepts
-- Exploring RAG and AI systems
+- Building end-to-end Data Science & ML projects
+- Developing AI-powered applications
+- Exploring RAG architectures and intelligent systems
 - Backend development with Django & Flask
-- Improving DSA and problem-solving skills
+- Strengthening DSA and problem-solving skills
 
 ---
 
@@ -119,7 +120,7 @@
 
 ## ⚡ Quote
 
-> “Data is the new oil, but insight is the real power.”
+> “Turning data into intelligent solutions and impactful applications.”
 
 ---
 
