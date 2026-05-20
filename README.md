@@ -26,21 +26,11 @@ Building scalable AI systems, intelligent applications, and end-to-end data solu
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/abdullajubair/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
-
-<a href="https://kaggle.com/jubairt" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" />
-</a>
-
-<a href="https://www.leetcode.com/jubairt/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
-</a>
-</p>
+- LinkedIn: [abdullajubair](https://www.linkedin.com/in/abdullajubair/)
+- Kaggle: [jubairt](https://kaggle.com/jubairt)
+- LeetCode: [jubairt](https://www.leetcode.com/jubairt/)
 
 ---
 
@@ -48,102 +38,95 @@ Building scalable AI systems, intelligent applications, and end-to-end data solu
 
 ## 👨‍💻 Programming Languages
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-</p>
+- Python
+- JavaScript
+- SQL
+- C
 
 ---
 
 ## 📊 Data Science & Machine Learning
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="45" height="45"/>
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/>
-</p>
+- Machine Learning
+- Deep Learning
+- Feature Engineering
+- Model Deployment
+- Data Preprocessing
+- Statistical Analysis
+- Scikit-learn
+- Pandas
+- NumPy
 
 ---
 
 ## 🤖 AI / LLM / Generative AI
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" alt="openai" width="45" height="45"/>
-</p>
-
-- LLM Applications  
-- RAG Pipelines  
-- Multi-Agent Systems  
-- AI Workflow Orchestration  
-- Vector Databases  
-- Prompt Engineering  
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Multi-Agent Systems
+- AI Workflow Orchestration
+- Prompt Engineering
+- Vector Databases
+- Agentic AI Applications
 
 ---
 
-## 🌐 Backend & APIs
+## 🌐 Backend Development & APIs
 
-<p align="left">
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="45" height="45"/>
-</p>
+- Flask
+- FastAPI
+- Django
+- REST APIs
+- Backend Architecture
+- Authentication Systems
 
 ---
 
-## ☁️ Cloud & DevOps
+## ☁️ Cloud, DevOps & Infrastructure
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45"/>
-</p>
-
-- Docker  
-- Kubernetes  
-- CI/CD  
-- Microservices Architecture  
-- Cloud Deployment  
-- Airflow Pipelines  
+- Docker
+- Kubernetes
+- Microservices Architecture
+- CI/CD Pipelines
+- Apache Airflow
+- Cloud Deployment
+- Scalable System Design
 
 ---
 
 ## 🗄️ Databases
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
-</p>
+- PostgreSQL
+- MySQL
+- SQL
 
 ---
 
 ## 📈 Data Visualization & BI
 
-- Power BI  
-- Tableau  
-- Plotly  
-- Bokeh  
-- D3.js  
-- Matplotlib  
+- Power BI
+- Tableau
+- Plotly
+- Bokeh
+- D3.js
+- Matplotlib
 
 ---
 
-## 🌍 Frontend Technologies
+## 🌍 Frontend Development
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45"/>
-</p>
+- HTML5
+- CSS3
+- Bootstrap
+- Responsive Web Design
 
 ---
 
 ## 📌 Current Focus
 
 - Production-grade AI systems
-- Scalable ML infrastructure
 - Advanced RAG & Agentic AI architectures
+- Scalable ML infrastructure
 - Distributed data pipelines
 - Cloud-native ML deployment
 - End-to-end AI product engineering
