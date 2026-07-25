@@ -4,10 +4,8 @@
 <p align="center">
 Building scalable AI systems, intelligent applications, and end-to-end data solutions using modern machine learning and cloud technologies.
 </p>
+<a href="https://jubairt.vercel.app/" target="_blank">Visit My Website</a>
 
-<a href="https://jubairt.vercel.app/" target="_blank">
-    <button>Visit My Website</button>
-</a>
 ---
 
 ## About Me
