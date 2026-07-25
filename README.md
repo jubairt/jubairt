@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdulla Jubair</h1>
 <h3 align="center">Data Scientist | Machine Learning Engineer | AI Engineer</h3>
+[My Portfolio](https://jubairt.vercel.app/)
 
 <p align="center">
 Building scalable AI systems, intelligent applications, and end-to-end data solutions using modern machine learning and cloud technologies.
